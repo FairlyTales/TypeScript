@@ -1,2 +1,3 @@
-# TypeScript Course
-TypeScript Course with React and Webpack
+# TypeScript
+
+Learning TypeScript with React and Webpack
